@@ -42,7 +42,6 @@ class ViewController: UIViewController {
         slider.setMaximumTrackImage(trackRightResizeable, for: .normal)
     }
     
-    ///test test test
     
     @IBAction func startNewGame() {
         score = 0
